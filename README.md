@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm [Anushikha Upadhyay] 👋
+# Hi, I'm Anushikha Upadhyay 👋
 ### MSc Computer Science Graduate | Full-Stack & Python Developer
 
 I build scalable backend systems and data-driven applications. My work bridges the gap between **Machine Learning research** and **Production-ready APIs**.
@@ -29,5 +29,5 @@ I build scalable backend systems and data-driven applications. My work bridges t
 ---
 
 ### 📫 Connect with me:
-* [LinkedIn](https://www.linkedin.com/in/anushikha-u-73b09ab8/)
+* [LinkedIn](https://www.linkedin.com/in/anushikha-u-73b09ab8)
 * [Email](anushikhaupadhyay04@gmail.com)
