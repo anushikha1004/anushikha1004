@@ -9,12 +9,12 @@ I build scalable backend systems and data-driven applications. My work bridges t
 
 ### 🚀 Featured Projects
 
-#### 🩺 [Diabetic Prediction API](https://github.com/anushikha1004/diabetes_detection)
+#### [Diabetic Prediction API](https://github.com/anushikha1004/diabetes_detection)
 * **Tech:** Python, FastAPI, Scikit-Learn, Docker.
 * **The Goal:** A RESTful API that serves an ML model to predict diabetes risk from health metrics.
-* **Key Achievement:** Achieved [X]% accuracy and sub-200ms inference time.
+* **Key Achievement:** Achieved 89% accuracy and sub-200ms inference time.
 
-#### ⛓️ [Blockchain Funding App](https://github.com/anushikha1004/funding-dapp-)
+#### [Blockchain Funding App](https://github.com/anushikha1004/funding-dapp-)
 * **Tech:** React, Solidity, Web3.js, Python.
 * **The Goal:** A decentralized platform for transparent project funding.
 * **Key Achievement:** Integrated Smart Contracts with a React frontend for secure, real-time transactions.
